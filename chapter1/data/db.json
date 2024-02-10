@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "checked": false,
+      "item": "one half pound bag of cocoa"
+    },
+    {
+      "id": 2,
+      "checked": true,
+      "item": "item2"
+    },
+    {
+      "id": 3,
+      "checked": true,
+      "item": "item3"
+    }
+  ]
+}
